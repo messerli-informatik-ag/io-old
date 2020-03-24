@@ -16,7 +16,7 @@
     <PropertyGroup>
         <RepositoryUrl>https://github.com/messerli-informatik-ag/io</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageTags>utility math</PackageTags>
+        <PackageTags>utility io stream streams</PackageTags>
         <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
         <Copyright>© Messerli Informatik AG. All rights reserved.</Copyright>
         <Description>Various utility functions for working with I/O.</Description>
