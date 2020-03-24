@@ -6,7 +6,7 @@ namespace Messerli.IO
     /// A wrapper around another stream.
     /// The inner stream will not be disposed when the <see cref="BorrowedStream" /> is disposed.
     /// </summary>
-    public sealed class BorrowedStream : Stream
+    internal sealed class BorrowedStream : Stream
     {
         private readonly Stream _inner;
 
