@@ -17,7 +17,6 @@ ProjectSection(SolutionItems) = preProject
 	.editorconfig = .editorconfig
 	readme.md = readme.md
 	changelog.md = changelog.md
-	.travis.yml = .travis.yml
 EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IO.Test", "IO.Test\IO.Test.csproj", "{B32198B9-D6D1-4153-8B18-4D0DD638F9C6}"
