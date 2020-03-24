@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk; Microsoft.Build.CentralPackageVersions">
+    <PropertyGroup>
+        <RootNamespace>Messerli.IO</RootNamespace>
+        <AssemblyName>Messerli.IO</AssemblyName>
+    </PropertyGroup>
+    <PropertyGroup>
+        <Version>0.1.0</Version>
+        <TargetFrameworks>netstandard2.1;netstandard2.0</TargetFrameworks>
+        <LangVersion>8.0</LangVersion>
+        <Nullable>enable</Nullable>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <NoWarn>$(NoWarn),1591</NoWarn>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    </PropertyGroup>
+    <PropertyGroup>
+        <RepositoryUrl>https://github.com/messerli-informatik-ag/io</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>utility math</PackageTags>
+        <PackageLicenseExpression>MIT OR Apache-2.0</PackageLicenseExpression>
+        <Copyright>© Messerli Informatik AG. All rights reserved.</Copyright>
+        <Description>Various utility functions for working with I/O.</Description>
+    </PropertyGroup>
+</Project>
