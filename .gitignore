@@ -2,4 +2,3 @@ bin/
 obj/
 /packages/
 FodyWeavers.xsd
-*.DotSettings.user
