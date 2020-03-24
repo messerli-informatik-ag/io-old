@@ -1,3 +1,4 @@
+os: linux
 dist: bionic
 language: csharp
 dotnet: "3.1"
